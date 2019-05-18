@@ -4,16 +4,16 @@
 import http.client,urllib,json,time,hashlib
 
 #用户名
-username ='13726613141'
+username =''
 
 #密码
-password ='a123456'
+password =''
 
 #token
 #token1=''
 
 #密钥
-securitykey ='4defde18a12943b683a1b2d440d2c18d'
+securitykey =''
 
 #接单的金额
 money ='100'
